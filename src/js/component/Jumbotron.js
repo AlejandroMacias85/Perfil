@@ -10,7 +10,7 @@ function Jumbotron() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=First slide&bg=373940"
+          src="https://getwallpapers.com/wallpaper/full/3/3/4/490956.jpg"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -21,7 +21,7 @@ function Jumbotron() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=Second slide&bg=282c34"
+          src="https://www.wallpapertip.com/wmimgs/160-1606283_web-developer-wallpaper.jpg"
           alt="Second slide"
         />
 
@@ -33,7 +33,7 @@ function Jumbotron() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=Third slide&bg=20232a"
+          src="	https://beeswebsites.co.uk/wp-content/uploads/2018/01/Hero-image-background-new-services.png"
           alt="Third slide"
         />
 
